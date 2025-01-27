@@ -41,7 +41,7 @@ const HeroSection = () => (
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5, delay: 0.2 }}
       >
-        Join FitLife Gym and start your fitness journey today!
+        Join Iron Addicts Fitness Club and start your fitness journey today!
       </motion.p>
       <motion.button
         className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-8 rounded-full text-lg transition duration-300 transform hover:scale-110"
