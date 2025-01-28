@@ -8,7 +8,7 @@ const AdminDashboard = () => {
   const [activeTab, setActiveTab] = useState("members")
 
   return (
-    <div className="min-h-screen bg-gray-100 flex">
+    <div className="min-h-screen bg-gray-100 flex py-12 px-4 sm:px-6 lg:px-8">
       {/* Sidebar */}
       <motion.div
         className="w-64 bg-blue-600 text-white p-6"
